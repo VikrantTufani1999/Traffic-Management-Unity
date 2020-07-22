@@ -1,3 +1,3 @@
 # Traffic-Management-Unity
 
-This repo contains traffic management game mechanics which was developed in Unity. 
+* This repo contains project files of game mechanics. 
